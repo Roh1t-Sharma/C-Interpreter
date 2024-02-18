@@ -1,0 +1,3 @@
+/Users/rohitsharma/CLionProjects/Interpteter/cmake-build-debug/CMakeFiles/Interpteter.dir
+/Users/rohitsharma/CLionProjects/Interpteter/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/rohitsharma/CLionProjects/Interpteter/cmake-build-debug/CMakeFiles/rebuild_cache.dir

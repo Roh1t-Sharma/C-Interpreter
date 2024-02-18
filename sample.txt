@@ -1,0 +1,6 @@
+This is a sample file.
+It contains multiple lines.
+This is a line containing the word "sample".
+The cat command displays its content.
+The wc command is counting lines, words, and characters in this file.
+The nl command displays its content.
